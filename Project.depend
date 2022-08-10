@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654145951 source:g:\cairo university\semester 6\computer graphics i\project\project_final\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stack>
+	<list>
+	<limits.h>
+	<wingdi.h>
+
